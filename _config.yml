@@ -1,6 +1,10 @@
-title:"Nkouka Leko Edhi Messages"
-logo:"img/nny.jpg"
-description:"Portofolio Data Scientist - IA, Data Science , Formation"
-show_download: true
-theme: jekyll-theme-minimal
-lang: fr
+title: "Nkouka Leko Edhi Messages"
+description: "Portfolio de Nkouka Leko Edhi Messages — Computer Engineering Student, Full-Stack Developer & Creative Technologist."
+url: "https://eddhynkoukaleko-web.github.io"
+baseurl: "/Nkouka-Leko-Edhi-Messages"
+
+theme: null
+
+markdown: kramdown
+
+plugins: []
